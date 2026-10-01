@@ -55,8 +55,3 @@ gcc nome_do_arquivo.c -o programa
 
 
 
-
-
-./programa
-```
-              
